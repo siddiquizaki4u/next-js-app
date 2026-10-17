@@ -35,7 +35,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover n deploy boilerplate example Next.js projects.</p>
           </a>
 
           <a href="https://vercel.com/new" className={styles.card}>
